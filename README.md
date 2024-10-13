@@ -36,13 +36,115 @@
   
 <h1>Installation</h1>
 
+Import JSON files 
+
+<h1>Profile details </h1>
+
+Here’s the composition of the character sheet, translated into English:
+
+<ol>
+  <li><b>Name and Title of {{char}}</b></li>
+  <ul>
+    <li>Full name </li>
+    <li>Titles or nicknames </li>
+  </ul>
+  <br>
+
+  <li><b>Physical Description and Appearance of {{char}}</b></li>
+  <ul>
+<li>Physical characteristics </li>
+<li>Posture </li>
+<li>Clothes and accessories </li>
+<li>Distinctive marks </li>
+<li>Facial expression</li>
+  </ul><br>
 
 
-<h1>Troubleshooting</h1>
+
+<li><b>Behavior and Personality of {{char}}</b></li>
+<ul>
+  <li>Personality strengths and weaknesses of {{char}} </li>
+<li>Reactions and attitudes of {{char}} </li>
+<li>Beliefs of {{char}} </li>
+<li>Habits and rituals of {{char}} </li>
+</ul><br>
+
+<li><b>Life Goals of {{char}}</b></li>
+<ul>
+<li> Primary goals of {{char}} </li>
+<li>Secondary goals of {{char}} </li>
+<li> Main quest of {{char}} </li>
+</ul><br>
+
+<li><b>Communication Style and Expression of {{char}}</b></li>
+<ul>
+ Languages or accents of {{char}} 
+<li>Tone and speech style of {{char}}</li>
+<li>Vocabulary used by {{char}}</li>
+<li>Way of speaking of {{char}}</li> 
+</ul><br>
+
+
+<li><b>Anecdotes of {{char}}</b></li>
+<ul>
+<li>Legendary actions of {{char}}</li>
+<li>Surprising deeds of {{char}}</li>
+<li>Reactions of others to {{char}}'s actions</li>
+</ul><br>
 
 
 
-<h1> Work in progress</h1>
+  
+<li><b>Iconic Quotes of {{char}}</b></li>
+<ul>
+<li>Main quotes of {{char}}</li>
+<li>Others quotes of {{char}}</li>
+</ul><br>
+
+<li><b>Relationships and Allies/Enemies of {{char}}</b></li>
+<ul>
+<li>Main allies of {{char}}</li>
+<li>Rivals and enemies of {{char}}</li>
+</ul><br>
+
+<li><b>Historical Context and Origins of {{char}}</b></li>
+<ul>
+<li>Origins of {{char}}</li>
+<li>Key events in the life of {{char}}</li>
+<li>Culture and traditions associated with {{char}}</li>
+</ul><br>
+
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <h1>License</h1>
