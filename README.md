@@ -133,11 +133,11 @@ Here’s the composition of the character sheet, translated into English:
 
 
 
+<h1>Customization tricks</h1>
 
 
-
-
-
+<h2>Show names on characters avatars</h2>
+<h2>Enable glow on characters</h2>
 
 
 
