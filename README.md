@@ -21,7 +21,19 @@
 <img src="https://github.com/user-attachments/assets/900103a6-4e6a-47f0-a8cd-86cb8515c228" width="20%">
 <img src="https://github.com/user-attachments/assets/0279a385-b873-4627-ba91-fd6e551980d3" width="20%">
 <img src="https://github.com/user-attachments/assets/505017c2-a683-45f5-a97f-36d0a87fdb0a" width="20%">
+<img src="https://github.com/user-attachments/assets/9a256121-57c0-4deb-ae0d-35f0ba06a434" width="20%">
+<img src="https://github.com/user-attachments/assets/d297b5ab-bb05-44b3-8510-a74fede36ea0" width="20%">
+<img src="https://github.com/user-attachments/assets/25c85263-79d2-4c0f-864e-d97f9c541477" width="20%">
+<img src="https://github.com/user-attachments/assets/92581408-459f-4419-bf67-f3b106ae8755" width="20%">
+<img src="https://github.com/user-attachments/assets/6a291f00-3ece-45f4-bb8f-84b253ebab4b" width="20%">
+<img src="https://github.com/user-attachments/assets/cccc3a6c-7ea2-4198-ad31-0325bf3995a9" width="20%">
+<img src="https://github.com/user-attachments/assets/fe4945de-b55a-415e-a9dd-7f4c3d954b46" width="20%">
+<img src="https://github.com/user-attachments/assets/1cc2f32f-621a-489c-8155-edb8736e850c" width="20%">
+<img src="https://github.com/user-attachments/assets/64dd12db-0382-4fed-a169-1bee1fde888e" width="20%">
+<img src="https://github.com/user-attachments/assets/6f56a07a-e7bb-4f71-9132-4d695c9f5603" width="20%">
 
+
+  
 <h1>Installation</h1>
 
 
