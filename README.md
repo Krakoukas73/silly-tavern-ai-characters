@@ -132,6 +132,11 @@ Here’s the composition of the character sheet, translated into English:
 
 
 <h1>See more chat examples</h1>
+
+![image](https://github.com/user-attachments/assets/9b421cbc-0df3-4ce6-8e7c-4832cd009e11)
+
+![image](https://github.com/user-attachments/assets/47ee6323-6d1f-4629-987b-40b5fd0fb5b4)
+
 https://krakoukas.com/sillytavern/
 
 
