@@ -44,7 +44,7 @@
 
 In SillyTavern, Characters > Import character from files (PNG/JSON)
 
-<h1>Profile details </h1>
+<h1>Profile construction method</h1>
 
 Here’s the composition of the character sheet, translated into English:
 
@@ -139,7 +139,7 @@ Here’s the composition of the character sheet, translated into English:
 
 
 
-<h1>Customization tricks</h1>
+<h1>Tricks and hacks in SillyTavern</h1>
 
 
 <h2>Show names on characters avatars</h2>
