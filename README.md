@@ -33,10 +33,16 @@
 <img src="https://github.com/user-attachments/assets/6f56a07a-e7bb-4f71-9132-4d695c9f5603" width="20%">
 
 
+<h2>Attention</h2>
+
+- Please, be aware descriptions and messages below are written in French. 
+- You can easily translate them in any langages. 
+- Pay particular attention to translations original character's quotes, which may be rather strange sometimes.
+
   
 <h1>Installation</h1>
 
-In SillyTavern, Characters > Import character from files (NNG/JSON)
+In SillyTavern, Characters > Import character from files (PNG/JSON)
 
 <h1>Profile details </h1>
 
