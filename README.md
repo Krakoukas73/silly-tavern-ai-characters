@@ -36,7 +36,7 @@
   
 <h1>Installation</h1>
 
-Import JSON files 
+In SillyTavern, Characters > Import character from files (NNG/JSON)
 
 <h1>Profile details </h1>
 
