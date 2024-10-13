@@ -131,8 +131,8 @@ Here’s the composition of the character sheet, translated into English:
 
 
 
-
-
+<h1>See more chat examples</h1>
+https://krakoukas.com/sillytavern/
 
 
 
@@ -143,8 +143,12 @@ Here’s the composition of the character sheet, translated into English:
 
 
 <h2>Show names on characters avatars</h2>
+
+Work in progress
+
 <h2>Enable visual glow on characters</h2>
 
+Work in progress
 
 
 
