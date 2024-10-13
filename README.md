@@ -35,7 +35,7 @@
 
 <h2>Attention</h2>
 
-- Please, be aware descriptions and messages below are written in French. 
+- Please, be aware characters descriptions below are written in French. 
 - You can easily translate them in any langages. 
 - Pay particular attention to translations original character's quotes, which may be rather strange sometimes.
 
@@ -143,7 +143,7 @@ Here’s the composition of the character sheet, translated into English:
 
 
 <h2>Show names on characters avatars</h2>
-<h2>Enable glow on characters</h2>
+<h2>Enable visual glow on characters</h2>
 
 
 
