@@ -33,7 +33,7 @@
 <img src="https://github.com/user-attachments/assets/6f56a07a-e7bb-4f71-9132-4d695c9f5603" width="20%">
 
 
-<h2>Attention</h2>
+<h1>Attention</h1>
 
 - Please, be aware characters descriptions below are written in French. 
 - You can easily translate them in any langages. 
