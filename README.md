@@ -1,4 +1,3 @@
-﻿﻿
 <h1>About</h1>
 
 <b>Characters for SillyTavern (about 5000 tokens/char) including :</b>
