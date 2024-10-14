@@ -148,11 +148,51 @@ See more chat examples : https://krakoukas.com/sillytavern/
 
 <h2>Show names on characters avatars</h2>
 
-Work in progress
+Search for file <code>user.css</code> in <code>/public/css</code>
+
+```
+.expression-holder {
+    position: relative; 
+    text-align: center; 
+}
+.expression-holder::after {
+    /* content: attr(data-avatar);  */
+    position: absolute; 
+    bottom: 0; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    padding: 7px 15px; 
+    font-size: 24px; 
+	  font-weight: 700;
+    background-color: rgba(255, 255, 255, 0.7); 
+	  border-radius: 7px;
+	  color: black;
+	  margin-bottom: 25px;
+}
+[id="expression-Sauron.png"]::after {
+    content: "Sauron"; 
+}
+```
+
+![image](https://github.com/user-attachments/assets/7e1598a8-3169-4e23-b3b8-28829f924ab0)
+
+
+
+
 
 <h2>Enable visual glow on characters</h2>
 
-Work in progress
+```
+[id="expression-Deadpool.png"] img {
+		  filter: drop-shadow(0 0 12px  rgba(255,0,0,0.75)) !important ;
+}
+```
+
+Here we glow !
+
+![image](https://github.com/user-attachments/assets/290a3422-2d2f-41ce-8ef0-1456a9fc68bb)
+
+
 
 
 
