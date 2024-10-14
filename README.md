@@ -37,7 +37,7 @@
 
 - Please, be aware characters descriptions below are written in French. 
 - You can easily translate them in any langages. 
-- Pay particular attention to translations original character's quotes, which may be rather strange sometimes.
+- Pay particular attention to original character's quotes translations, which may be rather strange sometimes.
 
   
 <h1>Installation</h1>
