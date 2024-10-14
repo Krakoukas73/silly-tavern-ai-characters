@@ -188,7 +188,7 @@ Search for file <code>user.css</code> in <code>/public/css</code>
 }
 ```
 
-Here we glow !
+Here we glow in the night !
 
 ![image](https://github.com/user-attachments/assets/290a3422-2d2f-41ce-8ef0-1456a9fc68bb)
 
