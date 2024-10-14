@@ -35,7 +35,7 @@
 <h1>Attention</h1>
 
 - Please, be aware characters descriptions below are written in French. 
-- You can easily translate them in any langages. 
+- You can easily translate them in any langage. 
 - Pay particular attention to original character's quotes translations, which may be rather strange sometimes.
 
   
