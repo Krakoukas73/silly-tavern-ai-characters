@@ -33,11 +33,11 @@
 <img src="https://github.com/user-attachments/assets/6f56a07a-e7bb-4f71-9132-4d695c9f5603" width="20%">
 
 
-<h2>Attention</h2>
+<h1>Attention</h1>
 
 - Please, be aware characters descriptions below are written in French. 
 - You can easily translate them in any langages. 
-- Pay particular attention to translations original character's quotes, which may be rather strange sometimes.
+- Pay particular attention to original character's quotes translations, which may be rather strange sometimes.
 
   
 <h1>Installation</h1>
@@ -131,8 +131,13 @@ Here’s the composition of the character sheet, translated into English:
 
 
 
+<h1>See more chat examples</h1>
 
+![image](https://github.com/user-attachments/assets/9b421cbc-0df3-4ce6-8e7c-4832cd009e11)
 
+![image](https://github.com/user-attachments/assets/47ee6323-6d1f-4629-987b-40b5fd0fb5b4)
+
+https://krakoukas.com/sillytavern/
 
 
 
@@ -143,8 +148,12 @@ Here’s the composition of the character sheet, translated into English:
 
 
 <h2>Show names on characters avatars</h2>
+
+Work in progress
+
 <h2>Enable visual glow on characters</h2>
 
+Work in progress
 
 
 
